@@ -1,5 +1,5 @@
 # proba-feladat
-Céges felvételi feladat
+
 
 ## Backend:
 Hozz létre egy JSON API-t. Például NodeJS-ben, ExpressJS keretrendszer használatával, de
